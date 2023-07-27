@@ -1,0 +1,12 @@
+suz = "Hozir sizga bir necha savollar beriladi .\n Har biriga javob bering.\nOxirida agar hammasi tug'ri bo'lsa.\n HA Tugmasini bosing va Arizangiz Adminga yuboriladi"
+texnologiyalar = "📚Texnologiya :\n\n" \
+                 "Talab qilinadigan texnologiyalarni kiriting ?\nTexnologiya nomlarini vergul bilan ajrating.Masalan,\n\n Java, C++"
+aloqalar = "📞Aloqa:\n\nBog'lanish uchun raqamingizni kiriting, Masalan : +998901234567"
+hududlar = "🌐Hudud :\n\nQaysi Hududdansiz ? Viloyat nomi .Masalan: Toshkent shahri"
+narxlar = "💰 Narxi::\n\nTo'lov qilasizmi yoki tekinmi ? Kerak bo'lsa summani kiriting ?"
+kasblar = "👨🏻‍💻 Kasbi: \n\nIshlaysizmi yoki o'qiysizmi ? Masalan ,Talaba"
+murojat_qilish_vaqti = "🕰Murojat qilish vaqti:\n\n Qaysi vaqtda murojat qilish mumkun.Masalan, 9:00 - 18:00"
+maqsadlar = "🔎Maqsad:\n\n Maqsadingizni qisqacha yozib bering."
+yoshlar = "🕑Yosh:\n\n Yoshingizni kirting? Masalan, 19"
+masullar = "✍️ Mas'ul ism sharifi ?"
+ishvaqti="🕑 Ish vaqtini kiriting ?"
